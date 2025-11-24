@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-11-24 at 7 54 09 PM](https://github.com/user-attachments/assets/10cb1443-3956-4f29-8f28-f5508b9d8669)
 # Exp 3 Experimental Verification of IV Characteristics of LED and LASER
 # Fiber Optic LED Characteristics and Photo Detector Response
 
